@@ -34,7 +34,7 @@ $ git --version
 커밋 기록에 남길 사용자 이름과 이메일 주소를 설정합니다. `--global` 옵션은 현재 컴퓨터의 모든 Git 저장소에 적용됩니다.
 ```bash
 # 사용자 이름 설정
-$ git config --global user.name "JaKeoung Koo"
+$ git config --global user.name "sonchansoo"
 
 # 사용자 이메일 설정
 $ git config --global user.email your-email-address@gachon.ac.kr
